@@ -1,5 +1,5 @@
 # dash-marketing-app
-Creating a dashboard which shows traffic and engagement statistics for a domain. 
+Creating a multi-page dashboard which shows traffic and engagement statistics for a domain. 
 
 The app is developed using Plotly Dash and uses the SimilarWeb API as the data source. The app is hosted on an Amazon EC2 instance. 
 
